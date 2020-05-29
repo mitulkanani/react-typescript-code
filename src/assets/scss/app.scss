@@ -1,0 +1,16 @@
+@import "./variable.scss";
+@import "./mixins.scss";
+@import "./helper.scss";
+@import "./fonts.scss";
+@import "./pages.scss";
+@import "./myapplication.scss";
+@import "./table.scss";
+body {
+	font-family: 'roboto-regular' !important;
+	margin: 0;
+	padding: 0 !important;
+	line-height: 1.3 !important;
+}
+.MuiButton-root {
+	text-transform: none !important;
+}

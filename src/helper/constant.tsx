@@ -1,0 +1,9 @@
+export const whiteLogo = require('./../assets/images/white-logo.png');
+export const signupImage = require('./../assets/images/signup-image.png');
+export const people = require('./../assets/images/people.jpg');
+export const appLogo = require('./../assets/images/logo.png');
+export const homeScreenArrow = require('./../assets/images/white-arrow.png');
+export const sidebarLogo = require('./../assets/images/sidebar-logo.png');
+export const Notifications = require('./../assets/images/notifications.png');
+export const Mail = require('./../assets/images/mail.png');
+export const addRound = require('./../assets/images/round-add-button.png');
